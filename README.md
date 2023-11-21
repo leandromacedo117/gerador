@@ -1,1 +1,1 @@
-# gerador
+# Gerador de senha Python
